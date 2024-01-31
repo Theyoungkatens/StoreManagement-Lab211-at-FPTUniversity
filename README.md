@@ -1,10 +1,10 @@
 StoreManagement-Lab211-at-FPTUniversity
+
 INTRODUCTION
 A convenience store sells 2 groups of products: products for daily use (bread, dumplings, sticky rice, ...) and
 products with long shelf life such as cookies, soft drinks, filtered water, .... The product.dat file is used to store
 information of all products in the Store. The wareHouse.dat file has stored import/export information. Each
 import/export receipt can contain many different items with different quantities.
-
 
 Program Specifications
 1. Manage products
